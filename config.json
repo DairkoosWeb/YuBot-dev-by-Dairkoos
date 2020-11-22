@@ -1,0 +1,11 @@
+{
+  "token": "votre token ici",
+  "ownerId": "717439565723336905",
+  "bugReportChannelId": "714900729856524298",
+  "feedbackChannelId": "750653870249607218",
+  "serverLogChannelId": "750653709179944972",
+  "apiKeys": {
+    "catApi": "7a7af15c-a38c-489a-91ff-79f90a24f9bf",
+    "googleApi": "AIzaSyD0f7Z0t9RAKAxd3B6YJMZR5j5isbnj9ss"
+  }
+}
