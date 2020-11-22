@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dairkoosxyz&show_icons=true&locale=en" alt="dairkoosxyz" /></p>
 
 
-![Dairkoosxyz's github stats](https://github-readme-stats.vercel.app/api?username=dairkoosxyz&show_icons=true&theme=radical)
