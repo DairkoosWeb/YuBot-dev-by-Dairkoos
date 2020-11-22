@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dairkoosxyz" alt="dairkoosxyz" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dairkoos" target="blank"><img src="https://img.shields.io/twitter/follow/dairkoos?logo=twitter&style=for-the-badge" alt="dairkoos" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dairkoos" target="blank"><img src="https://img.shields.io/twitter/follow/dairkoos?logo=twitter&style=for-the-badge" alt="dairkoosxyz" /></a> </p>
 
 ### Description
 <!-- BLOG-POST-LIST:START -->
