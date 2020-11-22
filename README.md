@@ -2,10 +2,6 @@
 
 <h3 align="center">Dévellopeur Français</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dairkoosxyz&label=Profile%20views&color=0e75b6&style=flat" alt="dairkoosxyz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dairkoosxyz" alt="dairkoosxyz" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/dairkoos" target="blank"><img src="https://img.shields.io/twitter/follow/dairkoos?logo=twitter&style=for-the-badge" alt="dairkoosxyz" /></a> </p>
 
 ### Description
