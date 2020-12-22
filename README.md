@@ -17,8 +17,4 @@
 <h3 align="left">Langues et outils</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dairkoosxyz&show_icons=true&locale=en&layout=compact" alt="dairkoosxyz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dairkoosxyz&show_icons=true&locale=en" alt="dairkoosxyz" /></p>
-
 
