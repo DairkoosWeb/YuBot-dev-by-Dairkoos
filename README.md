@@ -1,15 +1,6 @@
-# YuBot
 
-<h3 align="center">Dévellopeur Français</h3>
 
-<p align="left"> <a href="https://twitter.com/dairkoos" target="blank"><img src="https://img.shields.io/twitter/follow/dairkoos?logo=twitter&style=for-the-badge" alt="dairkoosxyz" /></a> </p>
-
-### Description
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connectez-vous avec moi</h3>
-<p align="left">
+<p align="left"> <a href="https://twitter.com/dairkoos" target="blank"><img src="https://img.shields.io/twitter/follow/dairkoos?logo=twitter&style=for-the-badge" 
 <a href="https://twitter.com/dairkoos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dairkoos" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dairkoos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="dairkoos" height="30" width="40" /></a>
 </p>
